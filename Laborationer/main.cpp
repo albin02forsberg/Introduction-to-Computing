@@ -8,6 +8,10 @@
 #include <GuessNum.h>
 #include <treeNPOne.h>
 #include <geometriskSumma.h>
+#include <decimalDot.h>
+#include <fib.h>
+#include <integral.h>
+#include <roten.h>
 
 int main()
 {
@@ -20,7 +24,9 @@ int main()
     // bezout(387, 249);
 
     // Upg
-    //colourInfo(0xff, 0x4, 0x23, 0xa);
+//    colourInfo(0xff, 0x4a, 0x23, 0xa);
+
+//    printColour(colourInfo(0xff, 0x4a, 0x23, 0x3a));
 
 //    mult(35);
 
@@ -32,7 +38,21 @@ int main()
 
 //   std::cout << collatzMax(7) << std::endl;
 
-    testSums(50000);
+//    testSums(50000);
 
+//    std::cout << fromDecToDot(0,0, 1, 255) << std::endl;
+
+//      std::cout << (8 / 10) << std::endl;
+
+    //fib(10);
+
+//    testaIntegral(0, 1);
+//    testaIntegral(-1, 1);
+//    testaIntegral(1, 1);
+//    testaIntegral(2,4);
+
+      sqrtLoop(2);
  return 0;
 }
+
+

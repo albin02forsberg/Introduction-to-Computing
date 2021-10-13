@@ -12,7 +12,11 @@ HEADERS += \
     bookCost.h \
     change.h \
     colourinfo.h \
+    decimalDot.h \
+    fib.h \
     geometriskSumma.h \
+    integral.h \
     multtable.h \
     refregerator.h \
+    roten.h \
     treeNPOne.h
